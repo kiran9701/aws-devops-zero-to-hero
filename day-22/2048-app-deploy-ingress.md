@@ -5,7 +5,7 @@
 ```
 eksctl create fargateprofile \
     --cluster demo-cluster \
-    --region ap-south-1 \
+    --region us-east-1 \
     --name alb-sample-app \
     --namespace game-2048
 ```
